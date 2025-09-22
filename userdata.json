@@ -11,4 +11,11 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
+
+    {
+        "device_id": "ecb9d77362fef72c",
+        "key": "Pro77",
+        "expirydate": "23-09-2025",
+        "Allowoffline": false
+    }
 ]
